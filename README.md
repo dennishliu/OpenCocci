@@ -1,0 +1,4 @@
+OpenCocci
+=========
+
+Microscopy image processing
